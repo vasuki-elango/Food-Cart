@@ -1,0 +1,14 @@
+.product-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 65rem;
+    margin: 0 auto;
+    gap:1.5rem;
+    /* flex-direction: column; */
+}
+.title{
+    text-align: center;
+    margin: 2rem;
+}

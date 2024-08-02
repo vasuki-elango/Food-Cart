@@ -1,0 +1,75 @@
+[
+    {
+        "id":89,
+        "name":"Farmers Pick",
+        "amt":159,
+        "shop":"Pizza hunt",
+        "ftype":"Pizza",
+        "pic":"https://img.freepik.com/premium-photo/delicious-pizza-photography_929907-313.jpg",
+        "latest":"No"
+    },
+    {
+        "id":124,
+        "name":"Paper Roast Dosa",
+        "amt":65,
+        "shop":"Sri Saivihar ",
+        "ftype":"Veg",
+        "pic":"https://1.bp.blogspot.com/-kOT1CcDUqAU/WCCiEG5V0hI/AAAAAAAAPUc/oHYnRIc9PGcPFVOS47iYtbB-LPdoVuLggCLcB/s640/paper%2Broast%2B1.jpg",
+        "latest":"No"
+    },
+    {
+        "id":26,
+        "name":"Pasta",
+        "amt":199,
+        "shop":"Pasta hunt",
+        "ftype":"Veg",
+        "pic":"https://frommybowl.com/wp-content/uploads/2022/07/Spicy_Tomato_Basil_Pasta_Vegan_FromMyBowl-12.jpg",
+        "latest":"Yes"
+    },
+    {
+        "id":226,
+        "name":"Prawn Fry",
+        "amt":199,
+        "shop":"Pasta hunt",
+        "ftype":"Non-Veg",
+        "pic":"https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_940/https://www.thetakeiteasychef.com/wp-content/uploads/2019/07/Chilli-Fried-Prawns.jpg",
+        "latest":"Yes"
+    },
+    {
+        "id":10,
+        "name":"Biriyani",
+        "amt":300,
+        "shop":"Food Cart",
+        "ftype":"Veg",
+        "pic":"https://th.bing.com/th/id/R.e7ca9ad0d7c37c1cc4a699d02cab9edf?rik=Hhrrzejovan9cA&riu=http%3a%2f%2fi2.wp.com%2fwww.relishthebite.com%2fwp-content%2fuploads%2f2015%2f02%2fEGgBiryani-3.jpg&ehk=GE4QFp%2bQZUbu7geX95oap0TbykK5aeE7U0pWYm%2fQAlg%3d&risl=&pid=ImgRaw&r=0",
+        "latest":"Yes"
+    },
+    {
+        "id":22,
+        "name":"Noodles",
+        "amt":100,
+        "shop":"Food Cart",
+        "ftype":"Non-Veg",
+        "pic":"https://pupswithchopsticks.com/wp-content/uploads/hakka-noodles-3.webp",
+        "latest":"Yes"
+    },
+    {
+        "id":4,
+        "name":"Ice Cream",
+        "amt":29,
+        "shop":"Food Cart",
+        "ftype":"Veg",
+        "pic":"https://www.tasteofhome.com/wp-content/uploads/2018/01/exps8708_C2640C49B_RMS-2.jpg",
+        "latest":"Yes"
+    },
+    {
+        "id":45,
+        "name":"Dessert",
+        "amt":129,
+        "shop":"Food Cart",
+        "ftype":"Veg",
+        "pic":"https://cdn3.tmbi.com/secure/RMS/attachments/37/1200x1200/exps21585_THCA153054D10_15_4b.jpg",
+        "latest":"Yes"
+    }
+    
+]
